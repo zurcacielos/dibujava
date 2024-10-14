@@ -7,7 +7,7 @@ Muchas empresas también los utilizan como parte de su proceso de contratación.
 
 ## Mapa Dispersivo
 
-[MapaDispersivo](src%2Fmain%2Fjava%2Fcom%2Fgithub%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo)
+[mapadispersivo.md](src%2Fmain%2Fjava%2Fcom%2Fgithub%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2Fmapadispersivo.md)
 
 [SumaDeDos.java](src%2Fmain%2Fjava%2Fcom%2Fgithub%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2FSumaDeDos.java)
 
