@@ -1,4 +1,4 @@
-package com.github.zurcacielos.algoritmos.MapaDispersivo;
+package com.zurcacielos.algoritmos.MapaDispersivo;
 
 import java.util.HashMap;
 

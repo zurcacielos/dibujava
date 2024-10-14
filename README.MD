@@ -7,12 +7,12 @@ Muchas empresas también los utilizan como parte de su proceso de contratación.
 
 ## Mapa Dispersivo
 
-[mapadispersivo.md](src%2Fmain%2Fjava%2Fcom%2Fgithub%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2Fmapadispersivo.md)
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2Fmapadispersivo.md)
 
-[SumaDeDos.java](src%2Fmain%2Fjava%2Fcom%2Fgithub%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2FSumaDeDos.java)
+- [SumaDeDos.java](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2FSumaDeDos.java)
 
 ## Ventana Corrediza
 
-[SubarregloMasCortoConSumaMayorAUnValorDado.java](src%2Fmain%2Fjava%2Fcom%2Fgithub%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSubarregloMasCortoConSumaMayorAUnValorDado.java)
+[SubarregloMasCortoConSumaMayorAUnValorDado.java](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSubarregloMasCortoConSumaMayorAUnValorDado.java)
 
-[SumaMaximaDeTodoSubArregloDeLargoK.java](src%2Fmain%2Fjava%2Fcom%2Fgithub%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaMaximaDeTodoSubArregloDeLargoK.java)
+[SumaMaximaDeTodoSubArregloDeLargoK.java](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaMaximaDeTodoSubArregloDeLargoK.java)

@@ -1,4 +1,4 @@
-package com.github.zurcacielos.algoritmos.VentanaCorrediza;
+package com.zurcacielos.algoritmos.VentanaCorrediza;
 
 // conocido en inglés como SmallestSubarrayWithSumGreaterThanAGivenValue
 public class SubarregloMasCortoConSumaMayorAUnValorDado {
