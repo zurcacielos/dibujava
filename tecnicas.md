@@ -2,7 +2,7 @@
 
 Tratamos de que nuestros algoritmos sean eficientes y vemos que algunas técnicas se repiten, y eso lo observamos como patrones de resolución de problemas.
 
-# Eviar Repeticiones
+# Evitar Repeticiones
 
 No hacer la misma cosa dos veces, no calcular lo ya calculado, llevar cuentas e ir dejando rastros en variables acumuladoras o mapas dispersivos, etc.
 
