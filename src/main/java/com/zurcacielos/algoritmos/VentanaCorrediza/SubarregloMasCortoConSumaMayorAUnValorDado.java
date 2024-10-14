@@ -2,8 +2,8 @@ package com.zurcacielos.algoritmos.VentanaCorrediza;
 
 // conocido en inglés como SmallestSubarrayWithSumGreaterThanAGivenValue
 public class SubarregloMasCortoConSumaMayorAUnValorDado {
-    // Devuelve la longitud del menor subarray con suma mayor al objetivo.
-    // Si no hay dicho subarray, devuelve longMaximaAExplorar+1
+    // Devuelve la longitud del menor subarreglo con suma mayor al objetivo.
+    // Si no hay dicho subarreglo, devuelve longMaximaAExplorar+1
     static int masCortoConSuma(int[] arr, int longMaximaAExplorar, int objetivo)
     {
         // inicializa variables
@@ -34,7 +34,7 @@ public class SubarregloMasCortoConSumaMayorAUnValorDado {
     // Rutina principal que testea la función principal
     public static void main(String[] args)
     {
-        String mensajeDeError = "No se encontro un subarray que cumpla las condiciojnes";
+        String mensajeDeError = "No se encontro un subarreglo que cumpla las condiciones";
         int[] arr1 = { 1, 4, 45, 6, 10, 19 };
         int x = 51;
         int n1 = arr1.length;

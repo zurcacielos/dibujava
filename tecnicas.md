@@ -8,7 +8,7 @@ No hacer la misma cosa dos veces, no calcular lo ya calculado, llevar cuentas e 
 
 Muchos algoritmos repiten pasos, iteran sobre estructuras de datos usando las estructuras para (for) y mientras (while), muchas veces anidadas, y juegan, comparan o cotejan al menos dos datos entre sí.
 
-Si comparamos elementos de un array, ej. el 4to con el 9no, tratamos de luego no volver a comparar el 9no con el 4to.
+Si comparamos elementos de un arreglo, ej. el 4to con el 9no, tratamos de luego no volver a comparar el 9no con el 4to.
 
 A la vez, tratamos de guardar datos, en forma de suma o en alguna estructura auxiliar para que al procesar cada nuevo elemento, tengamos toda la información posible que nos haya dejado el procesamiento del elemento anterior.
 
