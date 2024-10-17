@@ -14,10 +14,12 @@ Muchas empresas usados como parte de su proceso de contratación.
 
 [Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2Fmapadispersivo.md)
 
-- [SumaDeDos.java](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2FSumaDeDos.java)
+- [Suma De Dos](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2FSumaDeDos.java)
 
 ## Ventana Corrediza
 
-[SubarregloMasCortoConSumaMayorAUnValorDado.java](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSubarregloMasCortoConSumaMayorAUnValorDado.java)
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2Fventanacorrediza.md)
+- [Suma De Dos 2](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaDeDos2.java)
+- [Subarreglo Mas Corto Con Suma Mayor a un Valor Dado](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSubarregloMasCortoConSumaMayorAUnValorDado.java)
+- [Suma Maxima de Todo Subarreglo de Largo K](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaMaximaDeTodoSubArregloDeLargoK.java)
 
-[SumaMaximaDeTodoSubArregloDeLargoK.java](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaMaximaDeTodoSubArregloDeLargoK.java)
