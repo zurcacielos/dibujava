@@ -1,9 +1,9 @@
 # Dibujava
 
-Aprendé a programar 100% en castellano.
+Java y algoritmos 100% en castellano.
 
 Los patrones de código aquí presentes son los más comunes y utilizados en las carreras de ciencias de la computación e ingenierías afines.
-Muchas empresas también los utilizan como parte de su proceso de contratación.
+Muchas empresas usados como parte de su proceso de contratación.
 
 ## Técnicas
 
