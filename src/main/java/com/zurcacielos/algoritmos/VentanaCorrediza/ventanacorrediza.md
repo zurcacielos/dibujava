@@ -6,6 +6,8 @@ Nosotros imaginamos que en un arreglo o cadena de caracteres, ponemos los dos de
 
 [Suma de dos - 2](SumaDeDos2.java)
 
+[Suma de tres.java](SumaDe3.java)
+
 [Subarreglo Mas Corto Con Suma Mayor a Un Valor Dado](SubarregloMasCortoConSumaMayorAUnValorDado.java)
 
 [Suma Maxima De Todo Subarreglo De Largo K](SumaMaximaDeTodoSubArregloDeLargoK.java)
