@@ -6,7 +6,7 @@ public class ProductoExceptoSiMismo {
     // utilizando solo dos iteraciones y sin utilizar division
     public static int[] productoExceptoSiMismo(int[] nums) {
         int n = nums.length;
-        int[] res = new int[n];
+        int[] res = new int[n]; // arreglo de salida
 
         res[0] = 1;
         for (int i = 1; i < n; i++) {
