@@ -12,18 +12,18 @@ Muchas empresas los usan como parte de su proceso de contratación.
 
 ## Mapa Dispersivo
 
-[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2Fmapadispersivo.md)
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2Freadme.md)
 
 - [Suma De Dos](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2FSumaDeDos.java)
 
 ## Conjunto Dispersivo
-[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FConjuntoDispersivo%2Fconjuntodispersivo.md)
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FConjuntoDispersivo%2Freadme.md)
 
 - [Contiene Duplicado](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FConjuntoDispersivo%2FContieneDuplicado.java)
 
 ## Ventana Corrediza
 
-[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2Fventanacorrediza.md)
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2Freadme.md)
 - [Suma De Dos 2](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaDeDos2.java)
 - [Suma De Tres](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaDe3.java)
 - [Subarreglo Mas Corto Con Suma Mayor a un Valor Dado](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSubarregloMasCortoConSumaMayorAUnValorDado.java)
