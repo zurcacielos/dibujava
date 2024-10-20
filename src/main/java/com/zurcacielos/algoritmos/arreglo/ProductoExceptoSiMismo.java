@@ -1,5 +1,7 @@
-package com.zurcacielos.algoritmos.medio;
+package com.zurcacielos.algoritmos.arreglo;
 
+// conocido en inglés como ProductOfArrayExceptSelf
+// nivel de dificultad: medio
 public class ProductoExceptoSiMismo {
     // esta función recibe un arreglo de enteros y devuelve un arreglo de enteros con el producto de
     // todos los elementos excepto el mismo en la misma posición
@@ -21,7 +23,7 @@ public class ProductoExceptoSiMismo {
         int posfijo = 1; // primer posfijo en 1, pues no hay nada a la derecha del último elemento
         // recorre de derecha a izquierda
         for (int i = n - 1; i >= 0; i--) {
-            res[i] *= posfijo; // producto del elemento actual, o sea prefijo izquierdo, por postfijo de la derecha
+            res[i] *= posfijo; // producto del elemento actual (prefijo izquierdo) por postfijo de la derecha
             posfijo *= nums[i]; // calcula posfijo de la derecha
         }
         return res;

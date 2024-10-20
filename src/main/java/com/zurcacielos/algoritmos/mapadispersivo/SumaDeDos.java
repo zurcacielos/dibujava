@@ -1,4 +1,4 @@
-package com.zurcacielos.algoritmos.MapaDispersivo;
+package com.zurcacielos.algoritmos.mapadispersivo;
 
 import java.util.HashMap;
 

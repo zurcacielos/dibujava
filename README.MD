@@ -12,26 +12,31 @@ Muchas empresas los usan como parte de su proceso de contratación.
 
 ## Mapa Dispersivo
 
-[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2Freadme.md)
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmapadispersivo%2Freadme.md)
 
-- [Suma De Dos](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2FSumaDeDos.java)
+- [Suma De Dos](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmapadispersivo%2FSumaDeDos.java)
 
 ## Conjunto Dispersivo
 
-[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FConjuntoDispersivo%2Freadme.md)
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fconjuntodispersivo%2Freadme.md)
 
-- [Contiene Duplicado](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FConjuntoDispersivo%2FContieneDuplicado.java)
+- [Contiene Duplicado](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fconjuntodispersivo%2FContieneDuplicado.java)
 
 ## Ventana Corrediza
 
-[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2Freadme.md)
-- [Suma De Dos 2](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaDeDos2.java)
-- [Suma De Tres](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaDe3.java)
-- [Subarreglo Mas Corto Con Suma Mayor a un Valor Dado](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSubarregloMasCortoConSumaMayorAUnValorDado.java)
-- [Suma Maxima de Todo Subarreglo de Largo K](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaMaximaDeTodoSubArregloDeLargoK.java)
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fventanacorrediza%2Freadme.md)
+- [Suma De Dos 2](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fventanacorrediza%2FSumaDeDos2.java)
+- [Suma De Tres](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fventanacorrediza%2FSumaDe3.java)
+- [Subarreglo Mas Corto Con Suma Mayor a un Valor Dado](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fventanacorrediza%2FSubarregloMasCortoConSumaMayorAUnValorDado.java)
+- [Suma Maxima de Todo Subarreglo de Largo K](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fventanacorrediza%2FSumaMaximaDeTodoSubArregloDeLargoK.java)
 
-## Dificultad Media
+## Arreglos
 
 [Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmedio%2Freadme.md)
 
-[Producto Excepto Si Mismo](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmedio%2FProductoExceptoSiMismo.java)
+[Producto Excepto Si Mismo](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farreglo%2FProductoExceptoSiMismo.java)
+
+## Cadenas de caracteres
+
+- [Cadena Palindromica Mas Larga](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fstring%2FCadenaPalindromicaMasLarga.java)
+- [Cadenas Palindrómicas](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fstring%2FCadenasPalindromicas.java)

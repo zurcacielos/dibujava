@@ -1,4 +1,4 @@
-package com.zurcacielos.algoritmos.ConjuntoDispersivo;
+package com.zurcacielos.algoritmos.conjuntodispersivo;
 
 import java.util.HashSet;
 

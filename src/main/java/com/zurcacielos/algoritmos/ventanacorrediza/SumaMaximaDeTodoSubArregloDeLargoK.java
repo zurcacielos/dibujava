@@ -1,4 +1,4 @@
-package com.zurcacielos.algoritmos.VentanaCorrediza;
+package com.zurcacielos.algoritmos.ventanacorrediza;
 
 public class SumaMaximaDeTodoSubArregloDeLargoK {
 

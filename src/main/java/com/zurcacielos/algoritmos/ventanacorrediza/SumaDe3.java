@@ -1,4 +1,4 @@
-package com.zurcacielos.algoritmos.VentanaCorrediza;
+package com.zurcacielos.algoritmos.ventanacorrediza;
 
 public class SumaDe3 {
     // Esta función recorre un arreglo de enteros ordenados y devuelve el índice de los
