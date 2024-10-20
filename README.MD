@@ -37,6 +37,7 @@ Muchas empresas los usan como parte de su proceso de contratación.
 [Producto Excepto Si Mismo](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farreglo%2FProductoExceptoSiMismo.java)
 
 ## Cadenas de caracteres
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fcadena%2Freadme.md)
 
-- [Cadena Palindromica Mas Larga](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fstring%2FCadenaPalindromicaMasLarga.java)
-- [Cadenas Palindrómicas](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fstring%2FCadenasPalindromicas.java)
+- [Cadena Palindromica Mas Larga](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fcadena%2FCadenaPalindromicaMasLarga.java)
+- [Cadenas Palindrómicas](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fcadena%2FCadenasPalindromicas.java)
