@@ -7,11 +7,13 @@ En Java la estructura se llama HashMap, y Hash tiene su origen etimológico en l
 Aplicado a nuestro caso un mapa hacheado o dispersivo, es una tabla de datos que internamente tiene una función de hacheado o "dispersión" que permite dividirla y hacer que las escrituras y los accesos a datos sean más rápidos y no tengamos que recorrer toda la tabla para buscar una clave o índice.
 
 Ejemplo:
-
+    
+```java
 miMapa[11] = 29; // aquí 11 es la clave y 29 el valor
 
 imprimir(miMapa[11]);
 
+```
 y eso imprime 29.
 
 La velocidad y el poco espacio utilizado, hace que el mapa dispersivo sea útil para la resolución de ciertos problemas, como los que se muestran a continuación.

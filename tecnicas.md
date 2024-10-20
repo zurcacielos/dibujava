@@ -1,6 +1,6 @@
 # Técnicas y objetivos
 
-Tratamos de que nuestros algoritmos sean eficientes y vemos que algunas técnicas se repiten, y eso lo observamos como patrones de resolución de problemas.
+La palabra patrón, de la familia etimológica de padre, y significa en nuestro contexto, modelo, molde o plantilla utilizada para la resolución de problemas.
 
 # Evitar Repeticiones
 
@@ -20,4 +20,4 @@ En definitiva es el uso sabio de:
 - qué sistema de recorrido elegimos
 - que nos permita resolver el problema de una al primer hallazgo
 - o ir almacenando datos en un acumulador o mapa dispersivo, árbol, etc.
-- para que a cada paso tengamos mejor información para resolver el problema.
+- a cada paso podríamos tener mejor información para resolver el problema.
