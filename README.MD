@@ -34,7 +34,7 @@ Muchas empresas los usan como parte de su proceso de contratación.
 
 [Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmedio%2Freadme.md)
 
-[Producto Excepto Si Mismo](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farreglo%2FProductoExceptoSiMismo.java)
+- [Producto Excepto Si Mismo](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farreglo%2FProductoExceptoSiMismo.java)
 
 ## Cadenas de caracteres
 [Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fcadena%2Freadme.md)
