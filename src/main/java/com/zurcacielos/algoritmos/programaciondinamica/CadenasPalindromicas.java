@@ -1,6 +1,8 @@
 package com.zurcacielos.algoritmos.programaciondinamica;
 
 // conocido en inglés como PalindromicSubstrings
+// esto tiene una complejidad de tiempo de O(n^2) y una complejidad de espacio de O(n^2)
+// por lo tanto es menos eficiente que la solución de expandir desde el centro ya vista en "cadenas"
 public class CadenasPalindromicas {
     // Devuelve la cantidad de subcadenas palíndromas en una cadena
     public static int subcadenasPalindromicas(String s) {
