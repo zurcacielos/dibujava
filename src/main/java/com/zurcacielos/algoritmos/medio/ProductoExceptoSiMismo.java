@@ -1,8 +1,8 @@
 package com.zurcacielos.algoritmos.medio;
 
 public class ProductoExceptoSiMismo {
-    // esta funcion recibe un arreglo de enteros y devuelve un arreglo de enteros con el producto de
-    // todos los elementos excepto el mismo en la misma posicion
+    // esta función recibe un arreglo de enteros y devuelve un arreglo de enteros con el producto de
+    // todos los elementos excepto el mismo en la misma posición
     // utilizando solo dos iteraciones y sin utilizar division
     public static int[] productoExceptoSiMismo(int[] nums) {
         int n = nums.length;
