@@ -17,6 +17,7 @@ Muchas empresas los usan como parte de su proceso de contratación.
 - [Suma De Dos](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FMapaDispersivo%2FSumaDeDos.java)
 
 ## Conjunto Dispersivo
+
 [Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FConjuntoDispersivo%2Freadme.md)
 
 - [Contiene Duplicado](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FConjuntoDispersivo%2FContieneDuplicado.java)
@@ -30,5 +31,7 @@ Muchas empresas los usan como parte de su proceso de contratación.
 - [Suma Maxima de Todo Subarreglo de Largo K](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2FVentanaCorrediza%2FSumaMaximaDeTodoSubArregloDeLargoK.java)
 
 ## Dificultad Media
+
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmedio%2Freadme.md)
 
 [Producto Excepto Si Mismo](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmedio%2FProductoExceptoSiMismo.java)

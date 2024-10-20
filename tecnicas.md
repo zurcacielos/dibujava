@@ -21,3 +21,6 @@ En definitiva es el uso sabio de:
 - que nos permita resolver el problema de una al primer hallazgo
 - o ir almacenando datos en un acumulador o mapa dispersivo, árbol, etc.
 - a cada paso podríamos tener mejor información para resolver el problema.
+
+Se le suman optimizaciones como:
+- usar la misma estructura de salida como estructura auxiliar, en vez de usar múltiples estructuras de datos intermedios.
