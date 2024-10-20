@@ -8,15 +8,17 @@ public class ProductoExceptoSiMismo {
         int n = nums.length;
         int[] res = new int[n]; // arreglo de salida
 
-        res[0] = 1;
+        res[0] = 1; // el primer prefijo es 1, pues no hay nada a la izquierda del 1.er elemento
         for (int i = 1; i < n; i++) {
-            res[i] = res[i - 1] * nums[i - 1]; // producto de los elementos a la izquierda, guardado en array de salida
+            res[i] = res[i - 1] * nums[i - 1]; // producto prefijo izquierdo por elemento actual
         }
 
-        int posfijo = 1;
+        int posfijo = 1; // primer posfijo en 1, pues no hay nada a la derecha del último elemento
+        // recorre de derecha a izquierda
         for (int i = n - 1; i >= 0; i--) {
-            res[i] *= posfijo; // producto de los elementos a la derecha, multiplicado en el mismo array de salida donde ya estaba el prefijo
-            posfijo *= nums[i]; // actualiza el producto de los elementos a la derecha
+            // la respuesta final es el producto del prefijo izquierdo "en el lugar" por el posfijo derecho
+            res[i] *= posfijo; // producto del elemento actual por postfijo de la derecha
+            posfijo *= nums[i]; // calcula posfijo de la derecha
         }
         return res;
     }
