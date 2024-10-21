@@ -15,6 +15,7 @@ Muchas empresas los usan como parte de su proceso de contratación.
 [Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmapadispersivo%2Freadme.md)
 
 - [Suma De Dos](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmapadispersivo%2FSumaDeDos.java)
+- [K Elementos Más Frecuentes En La Lista](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmapadispersivo%2FKElementosMasFrecuentesEnLaLista.java)
 
 ## Conjunto Dispersivo
 

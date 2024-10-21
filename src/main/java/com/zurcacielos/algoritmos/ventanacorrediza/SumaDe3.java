@@ -7,11 +7,11 @@ public class SumaDe3 {
     public static int[] tresSuma(int[] nums, int objetivo) {
         // recorre el arreglo
         for (int i = 0; i < nums.length - 2; i++) {
-            // inicializa los índices de la ventana
+            // inicializa los índices de la ventana, desde el próximo elemento al último
             int izquierdo = i + 1, derecho = nums.length - 1;
-            // recorre el arreglo
+            // Recorre el arreglo para encontrar la suma de dos, que más el actual nos dé el objetivo.
             while (izquierdo < derecho) {
-                // calcula la suma de los elementos en los índices izquierdo y derecho
+                // calcula la suma de los tres elementos
                 int suma = nums[i] + nums[izquierdo] + nums[derecho];
                 // si la suma es igual al objetivo, devuelve los índices
                 if (suma == objetivo) {

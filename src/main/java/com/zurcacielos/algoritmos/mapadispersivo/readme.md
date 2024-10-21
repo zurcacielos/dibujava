@@ -19,3 +19,5 @@ y eso imprime 29.
 La velocidad y el poco espacio utilizado, hace que el mapa dispersivo sea útil para la resolución de ciertos problemas, como los que se muestran a continuación.
 
 ## [Suma de dos](SumaDeDos.java)
+
+## [K Elementos Más Frecuentes En La Lista](KElementosMasFrecuentesEnLaLista.java)
