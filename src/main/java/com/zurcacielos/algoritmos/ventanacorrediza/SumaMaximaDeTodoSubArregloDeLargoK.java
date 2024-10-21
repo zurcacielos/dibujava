@@ -15,7 +15,7 @@ public class SumaMaximaDeTodoSubArregloDeLargoK {
             sumaVentana += arr[i];
         }
 
-        // inicializa suma maxima
+        // inicializa suma máxima
         int sumaMaxima = sumaVentana;
 
         // desplaza la ventana de largo fijo hacia la derecha
