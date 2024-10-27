@@ -6,14 +6,25 @@ package com.zurcacielos.algoritmos.programaciondinamica;
 // ya resueltos. Esto permite evitar el cálculo repetido de los mismos subproblemas,
 // mejorando así la eficiencia del algoritmo.
 public class CambioEnMonedas {
-    // devuelve el mínimo número de monedas para dar un cambio
+    // Devuelve el mínimo número de monedas para dar un cambio
+    // Utiliza un enfoque de programación dinámica de abajo hacia arriba.
+    // En este enfoque, la función comienza resolviendo los subproblemas más pequeños
+    // y utiliza sus soluciones para construir soluciones a subproblemas más grandes
     public static int cambio(int[] monedas, int cantidad) {
         int[] dp = new int[cantidad + 1];
-        for (int i = 1; i <= cantidad; i++) {
-            dp[i] = Integer.MAX_VALUE;
+        // i es la cantidad para la cual se está calculando el número mínimo de monedas.
+        for (int cantActual = 1; cantActual <= cantidad; cantActual++) {
+            dp[cantActual] = Integer.MAX_VALUE;
+            // recorre todas las denominaciones de monedas para
+            // determinar cuál es la cantidad mínima de monedas necesarias
+            // para formar la cantidad cantActual, solo probando monedas menores a cantActual
             for (int j = 0; j < monedas.length; j++) {
-                if (i >= monedas[j] && dp[i - monedas[j]] != Integer.MAX_VALUE) {
-                    dp[i] = Math.min(dp[i], dp[i - monedas[j]] + 1);
+                int monedaActual = monedas[j];
+                // número mínimo de monedas necesarias para formar la cantidad restante (cant - monedaActual).
+                int monedasNecesariasParaCantRestante = dp[cantActual - monedaActual];
+                if (monedaActual < cantActual && monedasNecesariasParaCantRestante != Integer.MAX_VALUE) {
+                    // número mínimo de monedas necesarias para formar la cantidad actual
+                    dp[cantActual] = Math.min(dp[cantActual], monedasNecesariasParaCantRestante + 1);
                 }
             }
         }
