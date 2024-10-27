@@ -12,18 +12,18 @@ public class CambioEnMonedas {
     // Utiliza un enfoque de programación dinámica de abajo hacia arriba.
     // En este enfoque, la función comienza resolviendo los subproblemas más pequeños
     // y utiliza sus soluciones para construir soluciones a subproblemas más grandes
-    public static int cambio(int[] coins, int amount) {
-        int[] dp = new int[amount + 1];
-        Arrays.fill(dp, amount + 1);
+    public static int cambio(int[] monedas, int cantidad) {
+        int[] dp = new int[cantidad + 1];
+        Arrays.fill(dp, cantidad + 1);
         dp[0] = 0;
-        for (int i = 1; i <= amount; i++) {
-            for (int j = 0; j < coins.length; j++) {
-                if (coins[j] <= i) {
-                    dp[i] = Math.min(dp[i], dp[i - coins[j]] + 1);
+        for (int i = 1; i <= cantidad; i++) {
+            for (int j = 0; j < monedas.length; j++) {
+                if (monedas[j] <= i) {
+                    dp[i] = Math.min(dp[i], dp[i - monedas[j]] + 1);
                 }
             }
         }
-        return dp[amount] > amount ? -1 : dp[amount];
+        return dp[cantidad] > cantidad ? -1 : dp[cantidad];
     }
 
     public static void main(String[] args) {
