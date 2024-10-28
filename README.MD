@@ -42,8 +42,7 @@ Muchas empresas los usan como parte de su proceso de contratación.
 
 ## Arreglos
 
-[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmedio%2Freadme.md)
-
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farreglo%2Freadme.md)
 - [Producto Excepto Si Mismo](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farreglo%2FProductoExceptoSiMismo.java)
 - [Máxima Diferencia Entre Dos Elementos](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farreglo%2FMaximaDiferenciaEntreDosElementos.java)
 
