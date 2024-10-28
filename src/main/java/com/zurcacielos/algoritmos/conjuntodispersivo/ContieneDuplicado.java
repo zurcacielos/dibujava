@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 public class ContieneDuplicado {
     // esta funcion recorre un arreglo de enteros y devuelve verdadero si contiene al menos un
-    // n[umero duplicado, falso en caso contrario
+    // número duplicado, falso en caso contrario
     public static boolean contieneDuplicado(int[] nums) {
         // crea un conjunto dispersivo para guardar los elementos
         HashSet<Integer> conjunto = new HashSet<>();

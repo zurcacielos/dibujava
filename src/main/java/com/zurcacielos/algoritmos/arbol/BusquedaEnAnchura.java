@@ -7,26 +7,6 @@ import java.util.Queue;
 
 // Arbol binario - Recorrido por niveles - BFS - Leetcode 102
 public class BusquedaEnAnchura {
-    // definicion del nodo de arbol binario
-    public static class NodoDeArbol {
-        int valor;
-        NodoDeArbol izquierdo;
-        NodoDeArbol derecho;
-
-        NodoDeArbol() {
-        }
-
-        NodoDeArbol(int valor) {
-            this.valor = valor;
-        }
-
-        NodoDeArbol(int valor, NodoDeArbol izquierdo, NodoDeArbol derecho) {
-            this.valor = valor;
-            this.izquierdo = izquierdo;
-            this.derecho = derecho;
-        }
-    }
-
     // BFS
     public static List<List<Integer>> busquedaEnAnchura(NodoDeArbol raiz) {
         List<List<Integer>> resultado = new ArrayList<>();
@@ -52,6 +32,8 @@ public class BusquedaEnAnchura {
         }
         return resultado;
     }
+
+
 
     public static void main(String[] args) {
         NodoDeArbol raiz = new NodoDeArbol(3);

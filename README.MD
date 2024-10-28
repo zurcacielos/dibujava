@@ -41,6 +41,7 @@ Muchas empresas los usan como parte de su proceso de contratación.
 [Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmedio%2Freadme.md)
 
 - [Producto Excepto Si Mismo](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farreglo%2FProductoExceptoSiMismo.java)
+- [Máxima Diferencia Entre Dos Elementos](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farreglo%2FMaximaDiferenciaEntreDosElementos.java)
 
 ## Cadenas de caracteres
 [Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fcadena%2Freadme.md)
@@ -51,6 +52,10 @@ Muchas empresas los usan como parte de su proceso de contratación.
 ## Árboles
 
 - [Búsqueda En Anchura](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Farbol%2FBusquedaEnAnchura.java)
+
+## Retroceso
+[Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fretroceso%2Freadme.md)
+- [Buscar Palabra En Grilla](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fretroceso%2FBuscarPalabraEnGrilla.java)
 
 ## Programación Dinámica
 

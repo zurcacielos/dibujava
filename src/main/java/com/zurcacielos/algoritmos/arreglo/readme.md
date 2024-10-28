@@ -1,3 +1,5 @@
 # Dificultad Media
 
-## [Producto Excepto Si Mismo](ProductoExceptoSiMismo.java)
+## [Producto Excepto Sí Mismo](ProductoExceptoSiMismo.java)
+
+## [Máxima Diferencia Entre Dos Elementos](MaximaDiferenciaEntreDosElementos.java)
