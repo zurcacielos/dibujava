@@ -30,5 +30,7 @@ Especial atención a palabras clave como:
 - **ordenado**: implica lo anterior, o sea que números mayores o iguales están del lado derecho.
 - **únicos**: si ciertos datos son únicos, podemos ahorrarnos comparaciones.
 
+Por eso es importante analizar cada palabra del problema para ver si nos aporta algo sobre la morfología y topología de los datos.
+
 Se le suman optimizaciones como:
 - usar la misma estructura de salida como estructura auxiliar, en vez de usar múltiples estructuras de datos intermedios.
