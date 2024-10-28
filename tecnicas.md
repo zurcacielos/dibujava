@@ -14,23 +14,24 @@ A la vez, tratamos de guardar datos, en forma de suma o en alguna estructura aux
 
 En definitiva es el uso sabio de:
 - las estructuras de datos existentes en Java
-- los datos que nos dan del problema
+- los datos que nos dan del problema, y palabras clave
+  - **entero**: si está podría simplificar el problema, si no está, quizás debamos contemplar intervalos alrededor del cero con números negativos y positivos o los dos negativos, etc.
+  - **positivo, negativo**: idem.
+  - **menor que, mayor que**: si nos indican que algo siempre es mayor o menor que otro elemento o tenemos que manipular elementos únicamente si uno es mayor que otro, podría llevarnos a pensar en recorrido único de izquierda a derecha o viceversa.
+  - **ordenado**: implica lo anterior, o sea que números mayores o iguales están del lado derecho.
+  - **únicos**: si ciertos datos son únicos, podemos ahorrarnos comparaciones.
 - los parámetros de entrada a nuestra función y sus características
-- decidir ordenar o pre-procesar dichos parámetros
+- decidir ordenar o pre-procesar, normalizar dichos parámetros
 - qué sistema de recorrido elegimos
-- que nos permita resolver el problema de una al primer hallazgo
-- o ir almacenando datos en un acumulador o mapa dispersivo, árbol, etc.
-- a cada paso podríamos tener mejor información para resolver el problema.
-
-Hay que aprovechar al máximo la información que tenemos del problema.
-Especial atención a palabras clave como:
-- **entero**: si está podría simplificar el problema, si no está, quizás debamos contemplar intervalos alrededor del cero con números negativos y positivos.
-- **positivo, negativo**: idem.
-- **menor que, mayor que**: si nos indican que algo siempre es mayor o menor que otro elemento, podría llevarnos a pensar en recorrido único de izquierda a derecha o viceversa.
-- **ordenado**: implica lo anterior, o sea que números mayores o iguales están del lado derecho.
-- **únicos**: si ciertos datos son únicos, podemos ahorrarnos comparaciones.
+  - un solo puntero, dos punteros, movimientos de derecha a izquierda o viceversa 
+- almacenado y arrastre de datos en un acumulador o mapa dispersivo, árbol, etc. 
+- a cada paso podríamos tener mejor información para resolver el problema, y dicha información podría ser del mismo tipo o no
+  -  acumular cantidad, o guardar cantidad máxima o mínima hasta el momento
+  -  registrar el menor o mayor elemento hasta el momento, ya que a veces muchas cosas se obtienen de la diferencia entre un elemento y el mayor o menor del arreglo o la parte que esta a la derecha o izquierda del elemento actual.
 
 Por eso es importante analizar cada palabra del problema para ver si nos aporta algo sobre la morfología y topología de los datos.
+- Habla de algún tipo de datos o eventos que nosotros sabemos si hay relaciones crecientes o decrecientes? ej. días, meses, etc.
+- Hay limitaciones físicas en los objetos de la realidad descritos? Calles, mapas, países.
 
 Se le suman optimizaciones como:
 - usar la misma estructura de salida como estructura auxiliar, en vez de usar múltiples estructuras de datos intermedios.
