@@ -22,5 +22,13 @@ En definitiva es el uso sabio de:
 - o ir almacenando datos en un acumulador o mapa dispersivo, árbol, etc.
 - a cada paso podríamos tener mejor información para resolver el problema.
 
+Hay que aprovechar al máximo la información que tenemos del problema.
+Especial atención a palabras clave como:
+- **entero**: si está podría simplificar el problema, si no está, quizás debamos contemplar intervalos alrededor del cero con números negativos y positivos.
+- **positivo, negativo**: idem.
+- **menor que, mayor que**: si nos indican que algo siempre es mayor o menor que otro elemento, podría llevarnos a pensar en recorrido único de izquierda a derecha o viceversa.
+- **ordenado**: implica lo anterior, o sea que números mayores o iguales están del lado derecho.
+- **únicos**: si ciertos datos son únicos, podemos ahorrarnos comparaciones.
+
 Se le suman optimizaciones como:
 - usar la misma estructura de salida como estructura auxiliar, en vez de usar múltiples estructuras de datos intermedios.
