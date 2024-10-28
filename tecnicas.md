@@ -15,8 +15,8 @@ A la vez, tratamos de guardar datos, en forma de suma o en alguna estructura aux
 En definitiva es el uso sabio de:
 - las estructuras de datos existentes en Java
 - los datos que nos dan del problema, y palabras clave
-  - **entero**: si está podría simplificar el problema, si no está, quizás debamos contemplar intervalos alrededor del cero con números negativos y positivos o los dos negativos, etc.
-  - **positivo, negativo**: idem.
+  - **entero**: si no está, los números podrían ser números reales, con coma.
+  - **positivo, negativo**: si está podría simplificar el problema, si no está, quizás debamos contemplar intervalos alrededor del cero con números negativos y positivos o los dos negativos, etc.
   - **menor que, mayor que**: si nos indican que algo siempre es mayor o menor que otro elemento o tenemos que manipular elementos únicamente si uno es mayor que otro, podría llevarnos a pensar en recorrido único de izquierda a derecha o viceversa.
   - **ordenado**: implica lo anterior, o sea que números mayores o iguales están del lado derecho.
   - **únicos**: si ciertos datos son únicos, podemos ahorrarnos comparaciones.
