@@ -10,6 +10,10 @@ Muchas empresas los usan como parte de su proceso de contratación.
 [Breve introducción de las técnicas de resolución de problemas.
 ](tecnicas.md)
 
+## Java
+- [Comparar Sin Acentos](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Fjava%2FCompararSinAcentos.java)
+- [Expresiones Regulares](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Fjava%2FExpresionesRegulares.java)
+
 ## Mapa Dispersivo
 
 [Ir a la explicación](src%2Fmain%2Fjava%2Fcom%2Fzurcacielos%2Falgoritmos%2Fmapadispersivo%2Freadme.md)
