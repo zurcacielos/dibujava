@@ -1,4 +1,4 @@
-# Mapa Dispersivo
+# Conjunto Dispersivo
 
 El conjunto dispersivo o conjunto único, es una estructura de datos que nos permite guardar elementos únicos sin duplicados.
 
