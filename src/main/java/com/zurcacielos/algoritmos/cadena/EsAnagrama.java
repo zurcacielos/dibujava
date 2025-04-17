@@ -2,6 +2,16 @@ package com.zurcacielos.algoritmos.cadena;
 
 import java.util.Arrays;
 
+/**
+ * Un anagrama es una cadena que contiene exactamente los mismos caracteres que otra cadena,
+ * pero el orden de los caracteres puede ser diferente.
+ * Ejemplo 1:
+ * Entrada: s = "racecar", t = "carrace"
+ * Salida: true
+ * Ejemplo 2:
+ * Entrada: s = "jar", t = "jam"
+ * Salida: false
+ */
 public class EsAnagrama {
 
     // Ordena y compara.
@@ -28,6 +38,7 @@ public class EsAnagrama {
         int[] cantidades = new int[26]; // letras minúsculas en ingles
 
         for (int i = 0; i < s.length(); i++) {
+            // A uno le resta a otro le suma
             cantidades[s.charAt(i) - 'a']++; // le resta a en ascii para enviarlo a base cero
             cantidades[t.charAt(i) - 'a']--;
         }
